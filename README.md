@@ -10,7 +10,7 @@ The organization is facing challenges in understanding and visualizing critical 
 - **Power BI:** For creating the interactive report dashboard.
 - **DAX (Data Analysis Expressions):** To build dynamic calculations and advanced analytics.
 - **Power Query:** For data cleaning and transformation.
-- **Figma**: For designing cover and layout of dahsboard .
+- **Figma**: For designing the cover and layout of the dashboard.
 
 ## **Steps**
 
