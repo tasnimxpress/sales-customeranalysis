@@ -84,19 +84,19 @@ ProfitPercentage = DIVIDE([Profit],[TotalCost])
 ProfitMargin = DIVIDE([Profit], [TotalSales])
 ```
 
-Sales for last month corresponding to current month
+- Sales for last month corresponding to current month
 
 ```DAX
 SalesLM = CALCULATE([TotalSales],DATEADD(Dates[Date],-1,MONTH))
 ```
 
-Top sales by ranking category
+- Top sales by ranking category
 
 ```DAX
 TopXSales = IF([Ranking]<=RankingParameter[RankingParameter Value],[TotalSales],BLANK())
 ```
 
-Top sales by ranking category
+- Top sales by ranking category
 
 ```DAX
 TopXSales = IF([Ranking]<=RankingParameter[RankingParameter Value],[TotalSales],BLANK())
