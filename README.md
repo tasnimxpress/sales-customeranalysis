@@ -32,9 +32,9 @@ The organization is facing challenges in understanding and visualizing critical 
 
 ## The Dashboard
 
-![Sales Page.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d774bcbe-f015-4aa5-b102-7b4ccde4ab34/4131783f-084e-4a7f-9727-345a8485ddee/Sales_Page.png)
+![Sales Page.png](https://github.com/tasnimxpress/sales-customeranalysis/blob/main/Dashboard%20images/Sales%20Page.png)
 
-![Customer Page.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d774bcbe-f015-4aa5-b102-7b4ccde4ab34/5bab5114-efec-4b4b-9e33-8beca8fdc318/Customer_Page.png)
+![Customer Page.png](https://github.com/tasnimxpress/sales-customeranalysis/blob/main/Dashboard%20images/Customer%20Page.png)
 
 ## **Key Findings**
 
